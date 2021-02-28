@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @dankosorkin
 - 💞️ I’m looking to collaborate on big and small projects. I`m great at Java back-end business logic.
+- 👨🏽‍💻 Now I§m learning to use docker
 - 📫 How to reach me danielk.sorkin@gmail.com or <a href="https://wa.link/79uk1c">whatsapp</a>
 
 <!---
