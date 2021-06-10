@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel Sorkin
 - 😎 I`m great at Java and Angular
-- 🤩 Inspired by C language and passionate to low-level programming
+- 🤩 Inspired by C language and UNIX; passionate to low-level programming
 - 😍 Fully in love with abstractions, geometry and animation
 - 🤝 Looking to collaborate on big and small projects
 - 📫 You can reach me at danielk.sorkin@gmail.com or <a href="https://wa.link/79uk1c">whatsapp</a>
